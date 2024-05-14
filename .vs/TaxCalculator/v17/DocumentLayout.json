@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\secao-10\\taxcalculator\\taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\secao-10\\taxcalculator\\taxcalculator\\entities\\legalpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\legalpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\secao-10\\taxcalculator\\taxcalculator\\entities\\physicalpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\physicalpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\secao-10\\taxcalculator\\taxcalculator\\entities\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8B432B-7EA3-4EFB-9C7A-10040A833802}|TaxCalculator\\TaxCalculator.csproj|solutionrelative:taxcalculator\\entities\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LegalPeople.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\LegalPeople.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\LegalPeople.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\LegalPeople.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\LegalPeople.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA8wCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:10:24.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhysicalPeople.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\PhysicalPeople.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\PhysicalPeople.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\PhysicalPeople.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\PhysicalPeople.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:02:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\People.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Entities\\People.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Entities\\People.cs",
+              "RelativeToolTip": "TaxCalculator\\Entities\\People.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:59:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "TaxCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\secao-10\\TaxCalculator\\TaxCalculator\\Program.cs",
+              "RelativeToolTip": "TaxCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:47:14.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

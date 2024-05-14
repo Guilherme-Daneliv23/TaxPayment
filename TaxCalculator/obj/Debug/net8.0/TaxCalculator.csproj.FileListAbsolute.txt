@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\bin\Debug\net8.0\TaxCalculator.exe
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\bin\Debug\net8.0\TaxCalculator.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\bin\Debug\net8.0\TaxCalculator.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\bin\Debug\net8.0\TaxCalculator.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\bin\Debug\net8.0\TaxCalculator.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\refint\TaxCalculator.dll
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.pdb
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\TaxCalculator.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\C#\secao-10\TaxCalculator\TaxCalculator\obj\Debug\net8.0\ref\TaxCalculator.dll
